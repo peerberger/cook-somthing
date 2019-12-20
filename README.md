@@ -1,3 +1,0 @@
-# cook-somthing
-
-abc
